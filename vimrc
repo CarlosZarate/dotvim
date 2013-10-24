@@ -57,6 +57,6 @@ endif
 
 "Pathogen
 execute pathogen#infect()
-call pathogen#helptags() ” generate helptags for everything in ‘runtimepath’
+call pathogen#helptags() " generate helptags for everything in 'runtimepath'
 syntax on
 filetype plugin indent on
